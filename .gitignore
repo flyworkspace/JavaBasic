@@ -1,0 +1,14 @@
+/.idea
+/gen
+/bin
+/obj
+/build
+/out
+
+#忽略gradle构建自动生成的文件
+/.gradle
+/local.properties
+
+# IntelliJ
+*.iml
+
